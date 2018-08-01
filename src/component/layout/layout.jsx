@@ -4,6 +4,8 @@ import SideNav from '../topnav/topnav.jsx'
 
 import './theme.css';
 
+console.log("2222");
+
 export default class layout extends React.Component {
 
     constructor(props){
